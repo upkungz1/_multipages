@@ -1,0 +1,30 @@
+.counter-container{
+    border: 1px solid black;
+    padding-bottom: 1rem;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    background-color: aliceblue;
+}
+
+.counter-title{
+    color: rgb(0, 0, 0);
+}
+
+.counter-button{
+    border: 1px solid black;
+    border-radius: 0.5rem;
+}
+
+/* .counter-dec{
+    background-color: lightpink;
+}
+
+.counter-inc{
+    background-color: lightgreen;
+} */
+
+.counter-value{
+    font-size: xx-large;
+    margin: 0 1rem 0 1rem;
+}
